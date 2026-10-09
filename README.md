@@ -1,2 +1,2 @@
 # sample2
-sample edit2
+sample edit
